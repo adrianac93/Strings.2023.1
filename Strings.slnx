@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Strings.Logic/Strings.Logic.csproj" />
+  <Project Path="Strings.UI.Console/Strings.UI.Console.csproj" />
+</Solution>
